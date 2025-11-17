@@ -1,1 +1,1 @@
-To je prvi odstavek. 
+To je spremenjen prvi odstavek. 
